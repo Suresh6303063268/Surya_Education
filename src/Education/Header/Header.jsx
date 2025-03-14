@@ -52,7 +52,7 @@ function Header() {
     <div className='bg'>
       <header>
         <div className='Logo_img'>
-          <img src='BYC1.png' alt='' />
+          <img src='Byc1.png' alt='' />
           <p>Build Your Career</p>
         </div>
         <div className='Search_Main'>
