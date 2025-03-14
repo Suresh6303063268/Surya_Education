@@ -279,7 +279,7 @@ function OurCourses() {
 
 
           <div className='Our_Courses'>
-            <img src='DM1.jpg' alt="" />
+            <img src='Dm1.jpg' alt="" />
             <h1>Digital Marketing</h1>
             <h2> <span>★★★★</span> 4</h2>
             <div className='card-main-2'>
