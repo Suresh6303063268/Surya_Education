@@ -92,7 +92,7 @@ function OurCourses() {
 
 
           <div className='Our_Courses'>
-            <img src='Digital2.jpg' alt="" />
+            <img src='Digital.jpg' alt="" />
             <h3>Digital Marketing Placement Assistance Program</h3>
             <h2> <span>★★★★</span> 4</h2>
             <div className='card-main-2'>
@@ -230,7 +230,7 @@ function OurCourses() {
         <>
 
 <div className='Our_Courses'>
-            <img src='prmanagement.jpg' alt="" />
+            <img src='Prmanagement.jpg' alt="" />
             <h1>Product Management </h1>
             <h2> <span>★★★★</span> 4</h2>
             <div className='card-main-2'>
@@ -578,7 +578,7 @@ function OurCourses() {
           </div>
 
           <div className='Our_Courses'>
-            <img src='Hsj.jpg' alt="" />
+            <img src='HsJ.jpg' alt="" />
             <h1>HTML, CSS & JavaScript</h1>
             <h2> <span>★★★★</span> 4</h2>
             <div className='card-main-2'>

@@ -10,7 +10,7 @@ const JavaCard = () => {
     <div className='main_card'>
     <div className="card">
       <div className="card-header">
-        <img src="java4.jpg" alt="" className="card-image" />
+        <img src="Java4.jpg" alt="" className="card-image" />
       </div>
       <div className="card-body">
         <h2 className="card-title">Full Stack Java Placement Assistance Program</h2>
